@@ -6,5 +6,4 @@ Broadly interested in visual understanding — how deep networks learn, represen
 
 [Website](https://enazari.github.io) · [LinkedIn](https://www.linkedin.com/in/nazari-ehsan) · [Google Scholar](https://scholar.google.com/citations?user=5T9AfA0AAAAJ)
 
-**AI in my workflow**  
 Most code in recent projects was implemented with AI pair-programming. I lead architecture & validation; AI accelerates implementation.
