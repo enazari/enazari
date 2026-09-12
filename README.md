@@ -2,11 +2,16 @@
   <tr>
     <td width="330" align="center" valign="middle" style="border: none;">
       <a href="https://github.com/enazari/Trio-Diffusion">
-        <img src="https://raw.githubusercontent.com/enazari/Trio-Diffusion/master/assets/gallery_banner_3.png" alt="Trio-Diffusion generated image" width="300">
+    <img src="zoomedge_half_8color.gif" width="300"
+       alt="A doodle of a fish magnified a hundred doublings deep, its edge redrawn into endless coastline">
       </a>
       <br>
       <sub>
-        <a href="https://github.com/enazari/Trio-Diffusion">How I generated this image</a>
+        <p align="left">
+            <sub>
+              <b>How I generated this:</b> a fish doodle from Google's "Quick, Draw!" dataset, magnified a hundred doublings deep. Each step is redrawn from scratch by a small transformer, never enlarged, so new coastline keeps appearing. A descendant of <a href="https://github.com/enazari/Trio-Diffusion">Trio-Diffusion</a>.
+            </sub>
+          </p>
       </sub>
     </td>
     <td valign="middle" style="border: none;">
