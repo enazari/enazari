@@ -2,7 +2,7 @@
   <tr>
     <td width="330" align="center" valign="middle" style="border: none;">
       <a href="https://github.com/enazari/Trio-Diffusion">
-    <img src="zoomedge_half_8color.gif" width="300"
+    <img src="zoomedge_half_8color.gif" width="150"
        alt="A doodle of a fish magnified a hundred doublings deep, its edge redrawn into endless coastline">
       </a>
       <br>
