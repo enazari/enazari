@@ -3,17 +3,15 @@
     <td width="200" align="center" valign="top" style="border: none;">
       <a href="https://github.com/enazari/Trio-Diffusion">
         <img src="zoomedge_half_8color.gif" width="150"
-             alt="A doodle of a fish magnified a hundred doublings deep, its edge redrawn into endless coastline">
+             alt="A doodle of a fish magnified a hundred doublings deep, its edge redrawn into endless coastline"
+             title="A Quick, Draw! fish, zoomed a hundred doublings. Each step is redrawn from scratch by a small transformer, never enlarged, so new coastline keeps appearing. A descendant of Trio-Diffusion.">
       </a>
       <p align="left">
         <sub>
-          <b>How I generated this:</b> a fish doodle from Google's
-          <a href="https://github.com/enazari/Trio-Diffusion">
-          <img src="zoomedge_half_8color.gif" width="150"
-               alt="A doodle of a fish magnified a hundred doublings deep, its edge redrawn into endless coastline"
-               title="A Quick, Draw! fish, zoomed a hundred doublings. Each step is redrawn from scratch by a small transformer, never enlarged, so new coastline keeps appearing. A descendant of Trio-Diffusion.">
-        </a>
-.
+          <b>How I generated this:</b> a
+          <a href="https://github.com/googlecreativelab/quickdraw-dataset">Quick, Draw!</a>
+          fish, zoomed a hundred doublings. Redrawn at every step, never enlarged. From
+          <a href="https://github.com/enazari/Trio-Diffusion">Trio-Diffusion</a>.
         </sub>
       </p>
     </td>
